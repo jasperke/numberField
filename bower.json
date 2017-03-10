@@ -1,0 +1,19 @@
+{
+  "name": "numberField",
+  "version": "1.0.0",
+  "authors": [
+    "Jasper Ke <jasperke@kinghood.com.tw>"
+  ],
+  "description": "Number Field",
+  "main": "index.htm",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "devDependencies": {
+    "jquery": "~2.0.3",
+    "caret": "jasperke/caret#~1.0.0"
+  }
+}
