@@ -12,8 +12,10 @@
     "node_modules",
     "bower_components"
   ],
-  "devDependencies": {
-    "jquery": "~2.0.3",
+  "dependencies": {
     "caret": "jasperke/caret#~1.0.0"
+  }
+  "devDependencies": {
+    "jquery": "~2.0.3"
   }
 }
